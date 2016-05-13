@@ -1,5 +1,5 @@
-require "globalizer/version"
+require 'globalizer/version'
 
+# Globalizer: A simpler Internationalization library.
 module Globalizer
-  # Your code goes here...
 end
